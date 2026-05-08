@@ -22,7 +22,6 @@ O **fit** (encaixe) entre os dois lados acontece quando os criadores de ganho e 
 
 - Pagar todas as contas em dia sem esquecer nenhuma
 - Construir uma reserva de emergência ao longo do tempo
-- Organizar a renda familiar entre múltiplos membros
 
 #### Gains
 > O que o cliente quer conquistar ou melhorar?
@@ -48,14 +47,11 @@ O **fit** (encaixe) entre os dois lados acontece quando os criadores de ganho e 
 - Aplicativo mobile de gestão financeira familiar
 - Dashboard visual de renda e gastos em tempo real
 - Sistema de alertas e notificações automáticas
-- Relatórios mensais com insights de economia
 
 #### Gain Creators
 > Como a solução gera valor e melhora a vida do cliente?
 
 - Dashboard visual que mostra renda e gastos em tempo real, dando clareza imediata sobre a situação financeira
-- Relatórios mensais automáticos com sugestões personalizadas de metas e economia
-- Sugestões de crescimento financeiro baseadas no histórico de uso
 
 #### Pain Relievers
 > Como a solução resolve as dores do cliente?
