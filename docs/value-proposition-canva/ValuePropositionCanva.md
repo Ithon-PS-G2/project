@@ -13,7 +13,18 @@ O **fit** (encaixe) entre os dois lados acontece quando os criadores de ganho e 
 
 ---
 
-## Value Proposition Canvas — App de Gestão Financeira Familiar
+## Requisitos Funcionais
+
+- Cadastro (email e senha)
+- Adição e remoção de gastos fixos e variáveis, definindo nome do gasto, valor e setor;
+- Adição e remoção de renda, definindo nome e valor;
+- Dashboard financeiro com filtro mensal, indicando o total de gastos, renda e o valor que sobrou.
+- Tabela contendo os gastos;
+- Tabela contendo as rendas;
+- Adição de patrimônio, definindo nome e valor;
+- Cálculo do valor total em patrimônios;
+
+## Value Proposition Canvas — Site de Gestão Financeira Familiar
 
 ### Customer Segment: Família Brasileira
 
@@ -39,14 +50,13 @@ O **fit** (encaixe) entre os dois lados acontece quando os criadores de ganho e 
 
 ---
 
-### Value Map: App de Gestão Financeira Familiar
+### Value Map: Site de Gestão Financeira Familiar
 
 #### Produtos & Serviços
 > O que a solução oferece?
 
-- Aplicativo mobile de gestão financeira familiar
+- Desenvolvimento Web de gestão financeira familiar
 - Dashboard visual de renda e gastos em tempo real
-- Sistema de alertas e notificações automáticas
 
 #### Gain Creators
 > Como a solução gera valor e melhora a vida do cliente?
@@ -57,9 +67,6 @@ O **fit** (encaixe) entre os dois lados acontece quando os criadores de ganho e 
 > Como a solução resolve as dores do cliente?
 
 - Interface simples e intuitiva, sem curva de aprendizado — qualquer membro da família consegue usar
-- Plano único e acessível que cabe no orçamento familiar
-- Alertas automáticos de contas a vencer e dívidas, eliminando esquecimentos
-- Funcionalidade offline para uso sem dependência de internet
 
 ---
 
@@ -68,10 +75,9 @@ O **fit** (encaixe) entre os dois lados acontece quando os criadores de ganho e 
 | Dor / Ganho do Cliente | Resposta da Solução |
 |---|---|
 | Não sabe para onde o dinheiro foi | Dashboard visual em tempo real |
-| Medo de não pagar as dívidas | Alertas automáticos de vencimento |
 | Sem tempo para cuidar das finanças | Interface simples e rápida |
-| Quer sobrar dinheiro no mês | Relatórios com insights de economia |
-| Quer tomar decisões com segurança | Sugestões personalizadas de metas |
-| Precisa pagar contas em dia | Notificações e lembretes automáticos |
 
 > O encaixe está validado quando os *Pain Relievers* e *Gain Creators* respondem diretamente e de forma específica às *Pains* e *Gains* do segmento de clientes.
+
+## Links Úteis
+https://canva.link/607ra1mxy39sq37
