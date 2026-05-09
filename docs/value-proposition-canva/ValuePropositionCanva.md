@@ -13,17 +13,6 @@ O **fit** (encaixe) entre os dois lados acontece quando os criadores de ganho e 
 
 ---
 
-## Requisitos Funcionais
-
-- Cadastro (email e senha)
-- Adição e remoção de gastos fixos e variáveis, definindo nome do gasto, valor e setor;
-- Adição e remoção de renda, definindo nome e valor;
-- Dashboard financeiro com filtro mensal, indicando o total de gastos, renda e o valor que sobrou.
-- Tabela contendo os gastos;
-- Tabela contendo as rendas;
-- Adição de patrimônio, definindo nome e valor;
-- Cálculo do valor total em patrimônios;
-
 ## Value Proposition Canvas — Site de Gestão Financeira Familiar
 
 ### Customer Segment: Família Brasileira
