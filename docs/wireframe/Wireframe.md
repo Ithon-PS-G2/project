@@ -17,5 +17,10 @@ No projeto do **Sistema Simplificado de Gestão Familiar**, os wireframes foram 
 
 ---
 
-# Link dos Wireframes no Figma
-https://www.figma.com/design/YYsSpmeqcXHMPDBxH14N69/Sprint-1---Wireframe--c%C3%B3pia-?node-id=0-1&t=8e0iq1n48qMi3nak-1
+# Links dos Wireframes no Figma
+
+## Wireframe Desktop
+https://www.figma.com/site/Pep2Lj4pUSpFo8WOX5yirI/Sprint-1---Wireframe-Desktop?node-id=0-1&t=f4b4fUSV0750BkKb-1
+
+## Wireframe Mobile
+https://www.figma.com/design/YYsSpmeqcXHMPDBxH14N69/Sprint-1---Wireframe-Mobile?node-id=2009-232&t=Hw9zWetPtCndk75e-1
